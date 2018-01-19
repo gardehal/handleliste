@@ -1,0 +1,40 @@
+#wrapper
+{
+    position: relative;
+    width: 75%;
+    margin: 0 auto;
+    bottom: 0;
+}
+#todo-top
+{
+}
+#todo-new
+{
+}
+#todo-tools
+{
+    position: absolute;
+    left: 250px;
+    top: 0;
+}
+#todo-tools *
+{
+    display: inline;
+}
+#todo-list
+{
+    position: relative;
+    margin: 0 auto;
+}
+#edit-todo-todo
+{
+    width: 85%;
+}
+#todo-list input 
+{ 
+    font-size: 20px; 
+}
+.todo-done
+{
+    background-color: lightgreen;
+}
